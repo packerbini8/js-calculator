@@ -1,2 +1,3 @@
 # Project Update
 Remove unnecessary parentheses from single-argument functions
+Reevaluate requirements
